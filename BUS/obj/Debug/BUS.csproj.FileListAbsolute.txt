@@ -1,0 +1,18 @@
+D:\Project c#\ĐỒ ÁN lập trình trực quan\QuanLyBanHang\BUS\bin\Debug\BUS.dll
+D:\Project c#\ĐỒ ÁN lập trình trực quan\QuanLyBanHang\BUS\bin\Debug\BUS.pdb
+D:\Project c#\ĐỒ ÁN lập trình trực quan\QuanLyBanHang\BUS\bin\Debug\DAL.dll
+D:\Project c#\ĐỒ ÁN lập trình trực quan\QuanLyBanHang\BUS\bin\Debug\DTO.dll
+D:\Project c#\ĐỒ ÁN lập trình trực quan\QuanLyBanHang\BUS\bin\Debug\DAL.pdb
+D:\Project c#\ĐỒ ÁN lập trình trực quan\QuanLyBanHang\BUS\bin\Debug\DTO.pdb
+D:\Project c#\ĐỒ ÁN lập trình trực quan\QuanLyBanHang\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\Project c#\ĐỒ ÁN lập trình trực quan\QuanLyBanHang\BUS\obj\Debug\BUS.dll
+D:\Project c#\ĐỒ ÁN lập trình trực quan\QuanLyBanHang\BUS\obj\Debug\BUS.pdb
+D:\Project c#\QUAN LY BAN HANG\QuanLyBanHang\BUS\bin\Debug\BUS.dll
+D:\Project c#\QUAN LY BAN HANG\QuanLyBanHang\BUS\bin\Debug\BUS.pdb
+D:\Project c#\QUAN LY BAN HANG\QuanLyBanHang\BUS\bin\Debug\DAL.dll
+D:\Project c#\QUAN LY BAN HANG\QuanLyBanHang\BUS\bin\Debug\DTO.dll
+D:\Project c#\QUAN LY BAN HANG\QuanLyBanHang\BUS\bin\Debug\DAL.pdb
+D:\Project c#\QUAN LY BAN HANG\QuanLyBanHang\BUS\bin\Debug\DTO.pdb
+D:\Project c#\QUAN LY BAN HANG\QuanLyBanHang\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\Project c#\QUAN LY BAN HANG\QuanLyBanHang\BUS\obj\Debug\BUS.dll
+D:\Project c#\QUAN LY BAN HANG\QuanLyBanHang\BUS\obj\Debug\BUS.pdb
